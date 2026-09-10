@@ -1,0 +1,7 @@
+{
+  "id": "theme-garnet",
+  "name": "Garnet",
+  "version": "0.1.0",
+  "description": "Deep mineral dark. Garnet red mark.",
+  "main": "dist/index.js"
+}
